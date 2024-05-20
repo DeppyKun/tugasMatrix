@@ -87,7 +87,8 @@ body {
 }
 
 .top .logo {
-	padding-bottom: 15px;
+    padding-bottom: 15px;
+    padding-top: 16px;
 }
 
 .top .logo i {
